@@ -18,4 +18,4 @@ Next.js • Python • Docker • Laravel • PHP • MySQL • Kotlin • Andro
 
 - ✉️ Email: [seu.email@proton.me](mailto:...)
 - 🔗 LinkedIn: [linkedin.com/in/goncalo-lee](...)
-- 💼 Portfolio: [goncalo-lee.dev](...) (se tiveres)
+<!-- - 💼 Portfolio: [goncalo-lee.dev](...) (se tiveres)-->
